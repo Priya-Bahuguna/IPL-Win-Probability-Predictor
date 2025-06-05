@@ -69,6 +69,7 @@ streamlit run app.py
 
 ----
 📄 Model Training (Optional)
+----
 
 *The model is trained separately using IPL ball-by-ball and match-level data. Feature engineering includes:
 
@@ -79,9 +80,9 @@ streamlit run app.py
 *Training a classifier with historical outcomes
 
 **Note: The training process is documented in the notebook IPL_Win_Probability_Predictor.ipynb.
-
+----
 📈 Future Improvements
-
+----
 *Support for live match feeds
 
 *Visual graphs for score projections
